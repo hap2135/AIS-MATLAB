@@ -1,0 +1,80 @@
+Operator,Name,MMSI,Status
+Seastreak,Nantucket Express,368396226,seen
+Seastreak,Seastreak New York,367347130,seen
+Seastreak,Seastreak New Jersey,368396216,confident
+Seastreak,Seastreak Highlands,367347670,seen
+Seastreak,Whaling City Express,367673370,confident
+Seastreak,Martha's Vineyard Express,367036190,confident
+Seastreak,Ocean State,367675020,seen
+Seastreak,Commodore,368013770,seen
+Seastreak,Courageous,368224850,seen
+Seastreak,Home Run,368464820,candidate
+NYC Ferry,Lunchbox,367776270,seen
+NYC Ferry,Urban Journey,367778670,seen
+NYC Ferry,Friendship Express,367782690,seen
+NYC Ferry,Connector,367782880,candidate
+NYC Ferry,Opportunity,367791540,seen
+NYC Ferry,Flyer,367791550,seen
+NYC Ferry,McShiny,367798420,seen
+NYC Ferry,Starlight,367798430,seen
+NYC Ferry,Spring Mallard,367797260,seen
+NYC Ferry,Atlantic Compass,368004120,seen
+NYC Ferry,Waves of Wonder,367779540,seen
+NYC Ferry,Sunset Crossing,367779550,seen
+NYC Ferry,Happy Hauler,367784630,seen
+NYC Ferry,Great Eagle,367784640,seen
+NYC Ferry,Owls Head,367790830,seen
+NYC Ferry,Munsee,367791140,seen
+NYC Ferry,Ferry Godmother,368025020,seen
+NYC Ferry,Ocean Queen Rockstar,368043070,seen
+NYC Ferry,Seas the Day,368051230,seen
+NYC Ferry,Golden Narrows,368061020,seen
+NYC Ferry,Rainbow Cruise,368063930,seen
+NYC Ferry,Unity,368081150,seen
+NYC Ferry,Jewel of the Harbor,368091960,seen
+NYC Ferry,Traversity,368081160,seen
+NYC Ferry,Dream Boat,368098930,seen
+NYC Ferry,Koalified Cruiser,368097380,seen
+NYC Ferry,Signs to Liberty,368116140,seen
+NYC Ferry,Forget Me Knot,368101960,seen
+NYC Ferry,River Sprinter,368123070,seen
+NYC Ferry,Bay Hopper,368130050,seen
+NYC Ferry,Cyclone Shark,368139870,seen
+NYC Ferry,Tooth Ferry,368152730,seen
+NYC Ferry,Time Traveler,368163240,seen
+NYC Ferry,Melting Pot,368130870,seen
+NYC Ferry,City Fishy,368141540,seen
+NYC Ferry,Purpose,NaN,none
+NYC Ferry,Curiosity,368135270,seen
+NYC Ferry,White Sands,368141510,confident
+NY Water Taxi/Circle Line,Sam Holmes,367659970,seen
+NY Water Taxi/Circle Line,Ed Rogowsky,367134010,seen
+NY Water Taxi/Circle Line,Marian Heiskell,367187770,confident
+NY Water Taxi/Circle Line,Gene Flatow,367367430,seen
+NY Waterway,Abraham Lincoln,366990620,candidate
+NY Waterway,Admiral Richard E. Bennis,366902320,seen
+NY Waterway,Arthur E. Imperatore,368261450,seen
+NY Waterway,Bayonne,366902330,candidate
+NY Waterway,Betsy Ross,367752090,seen
+NY Waterway,Brooklyn,366851670,seen
+NY Waterway,Captain Mark Summers,366990570,seen
+NY Waterway,Christopher Columbus,366863240,confident
+NY Waterway,Congressman Robert A. Roe,366902360,seen
+NY Waterway,Empire State,367415390,seen
+NY Waterway,Father Mychal Judge,366834160,confident
+NY Waterway,Fiorello LaGuardia,367434210,seen
+NY Waterway,Frank Sinatra,367434160,seen
+NY Waterway,Franklin D Roosevelt,368144670,seen
+NY Waterway,Fred V. Morrone,366853410,candidate
+NY Waterway,Garden State,366629680,seen
+NY Waterway,Governor Thomas H. Kean,366902350,seen
+NY Waterway,Henry Hudson,366651000,seen
+NY Waterway,Hoboken,366868360,seen
+NY Waterway,John Stevens,366990560,confident
+NY Waterway,Molly Pitcher,367691840,seen
+NY Waterway,Peter R Weiss,NaN,none
+NY Waterway,Port Imperial Manhattan,366990540,seen
+NY Waterway,Robert Fulton,NaN,none
+NY Waterway,Susan B. Anthony,368078230,seen
+NY Waterway,U.S. Senator Frank R. Lautenberg,366851680,seen
+NY Waterway,Yogi Berra,367434220,seen

@@ -1,0 +1,10 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+367367270,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.8368166666667,-73.956585,12.9,204.8,NaN,31-Oct-2026 15:59:04,4,-30.4
+3669982,,,NaN,Base station,,NaN,NaN,NaN,,,,40.7889783333333,-73.9297933333333,NaN,NaN,NaN,31-Oct-2026 15:59:01,9,-19.3
+368163680,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7991566666667,-73.905935,0.8,222,212,31-Oct-2026 15:58:58,3,-36.5
+367415390,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7764633333333,-74.00988,0,30.5,NaN,31-Oct-2026 15:58:58,4,-34.5
+367351520,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.764375,-74.012195,3.8,200.2,208,31-Oct-2026 15:58:55,5,-39.7
+367482250,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.77172,-74.0109433333333,NaN,NaN,NaN,31-Oct-2026 15:58:54,4,-33.1
+366902350,,,NaN,Class A,,NaN,NaN,NaN,,,Moored,40.735065,-74.0263966666667,0,285.2,NaN,31-Oct-2026 15:58:54,2,-34.8
+366999412,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7951966666667,-73.98963,7.5,212.4,210,31-Oct-2026 15:58:47,3,-30.5
+477156200,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6421633333333,-74.1415016666667,5,260.2,260,31-Oct-2026 15:58:11,1,-43.3

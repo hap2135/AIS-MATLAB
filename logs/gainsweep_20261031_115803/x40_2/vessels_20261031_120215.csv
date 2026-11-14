@@ -1,0 +1,21 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+367759510,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.76298,-74.00152,0,183,NaN,31-Oct-2026 16:03:17,2,-33.4
+366999412,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7870983333333,-73.9953583333333,7.5,203.6,205,31-Oct-2026 16:03:16,6,-13.8
+367415390,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.774875,-74.00703,11.8,143.4,NaN,31-Oct-2026 16:03:16,5,-20.1
+368345360,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.76001,-74.0042166666667,3.2,303.1,112,31-Oct-2026 16:03:16,8,-24.5
+367434160,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7607616666667,-74.0098133333333,11.4,245.1,NaN,31-Oct-2026 16:03:14,3,-28.6
+367000140,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6446666666667,-74.072,0,95,234,31-Oct-2026 16:03:14,4,-30.3
+367367270,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.82335,-73.9649616666667,12.8,205.1,NaN,31-Oct-2026 16:03:14,6,-12.2
+367635490,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7265766666667,-74.0151666666667,0.2,NaN,NaN,31-Oct-2026 16:03:14,2,-32.7
+477156200,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6437233333333,-74.1484966666667,3.9,316.5,320,31-Oct-2026 16:03:11,3,-35.1
+367358240,,,NaN,Class A,,NaN,NaN,NaN,,,Not defined,40.7999766666667,-73.8692433333333,0.1,161.3,NaN,31-Oct-2026 16:03:09,6,-30
+368163680,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7980233333333,-73.9065766666667,1,205,214,31-Oct-2026 16:03:06,5,-27
+367585720,,,NaN,Class B,,NaN,NaN,NaN,,,,40.8328483333333,-73.9608316666667,10.4,22,NaN,31-Oct-2026 16:03:03,2,-21.7
+3669982,,,NaN,Base station,,NaN,NaN,NaN,,,,40.78896,-73.9297883333333,NaN,NaN,NaN,31-Oct-2026 16:03:01,12,-7.1
+338522101,GOOD ENERGY,,NaN,Class B,,NaN,NaN,NaN,,,,40.8274866666667,-73.9705983333333,0,NaN,NaN,31-Oct-2026 16:02:58,2,-31
+338567076,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7998833333333,-73.881595,8.3,285,288,31-Oct-2026 16:02:58,4,-33.3
+367351520,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7607816666667,-74.0150533333333,3.7,207,204,31-Oct-2026 16:02:55,3,-29.3
+367016470,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.74792,-74.0102666666667,0,144.7,NaN,31-Oct-2026 16:02:48,1,-32.2
+367558180,,,NaN,Class A,,NaN,NaN,NaN,,,Moored,40.655655,-74.0870533333333,0.1,82.1,91,31-Oct-2026 16:02:47,1,-35.4
+338295000,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.8864383333333,-73.9274633333333,8.4,206.4,205,31-Oct-2026 16:02:45,1,-28.2
+366902320,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.75288,-74.021185,0.1,295.5,NaN,31-Oct-2026 16:02:29,1,-29.5

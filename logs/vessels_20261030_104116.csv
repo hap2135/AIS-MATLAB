@@ -1,0 +1,2 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+3669982,,,NaN,Base station,,NaN,NaN,NaN,,,,40.7889666666667,-73.9298016666667,NaN,NaN,NaN,30-Oct-2026 14:44:01,34,-19.6

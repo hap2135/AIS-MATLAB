@@ -1,0 +1,18 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+367353660,RED HOOK,WDE4476,9501916,Class A,Tanker,106,15,5,NYC SLUDGE DOCK,02-12 18:16 UTC,,NaN,NaN,NaN,NaN,NaN,31-Oct-2026 16:04:18,1,-26.8
+366999412,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7852666666667,-73.9965333333333,7.3,205.7,205,31-Oct-2026 16:04:16,4,-12.9
+367415390,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7717466666667,-74.006605,11.2,182.1,NaN,31-Oct-2026 16:04:16,2,-25.3
+368345360,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7601333333333,-74.0052533333333,3.2,252.1,52,31-Oct-2026 16:04:14,4,-24.8
+367434160,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7592566666667,-74.01264,8.8,215.7,NaN,31-Oct-2026 16:04:14,3,-30.1
+367000140,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6445,-74.072,0,303,234,31-Oct-2026 16:04:14,2,-30.8
+367367270,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.8201133333333,-73.966815,12.9,205,NaN,31-Oct-2026 16:04:14,4,-21.2
+368163680,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7977583333333,-73.9067133333333,1,194,215,31-Oct-2026 16:04:06,2,-29.1
+3669982,,,NaN,Base station,,NaN,NaN,NaN,,,,40.7889716666667,-73.9297733333333,NaN,NaN,NaN,31-Oct-2026 16:04:01,10,-5.1
+367358240,,,NaN,Class A,,NaN,NaN,NaN,,,Not defined,40.79997,-73.8692516666667,0,181.7,NaN,31-Oct-2026 16:03:58,1,-32.5
+367351520,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7598616666667,-74.015575,3.5,201.9,202,31-Oct-2026 16:03:55,1,-26.8
+477156200,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.644285,-74.1490516666667,3.9,325,328,31-Oct-2026 16:03:51,1,-28.2
+338295000,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.88437,-73.9288033333333,8.3,206,205,31-Oct-2026 16:03:45,1,-27.4
+367784640,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7103983333333,-74.02615,19.5,209,206,31-Oct-2026 16:03:44,1,-32
+367585720,,,NaN,Class B,,NaN,NaN,NaN,,,,40.8343883333333,-73.959935,10.4,23.3,NaN,31-Oct-2026 16:03:38,1,-31.8
+368063930,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7976883333333,-73.8640233333333,25.7,84.4,84,31-Oct-2026 16:03:32,2,-32
+366902350,,,NaN,Class A,,NaN,NaN,NaN,,,Moored,40.7295733333333,-74.0248266666667,11.1,189.4,NaN,31-Oct-2026 16:03:25,1,-26.8

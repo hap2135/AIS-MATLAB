@@ -1,0 +1,21 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+367000140,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.6445,-74.0718333333333,0,95,235,31-Oct-2026 16:02:14,3,-31.3
+367367270,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.8265283333333,-73.962865,12.7,203.8,NaN,31-Oct-2026 16:02:14,5,-20.4
+367635490,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.7265733333333,-74.015165,0.1,NaN,NaN,31-Oct-2026 16:02:14,3,-33.7
+367351520,,,NaN,Class A,"",NaN,NaN,NaN,"",,Pushing ahead / towing alongside,40.7614066666667,-74.0145883333333,3.8,211.5,207,31-Oct-2026 16:02:14,5,-27.9
+367358240,,,NaN,Class A,"",NaN,NaN,NaN,"",,Not defined,40.799985,-73.8692566666667,0,179.1,NaN,31-Oct-2026 16:02:09,5,-29.9
+367415390,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.7762166666667,-74.0093816666667,1.7,153.4,NaN,31-Oct-2026 16:02:07,6,-22.8
+367482250,JERSEY,WDF7218,NaN,Class A,"Passenger",NaN,NaN,2,"NY,NY",,Under way using engine,40.77174,-74.0109283333333,NaN,NaN,NaN,31-Oct-2026 16:02:06,6,-22.5
+368163680,,,NaN,Class A,"",NaN,NaN,NaN,"",,Pushing ahead / towing alongside,40.798315,-73.9064283333333,1.2,200,213,31-Oct-2026 16:02:06,2,-30.7
+366999412,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.789295,-73.9939966666667,7.5,206.7,206,31-Oct-2026 16:02:06,6,-15.8
+366902320,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.7528516666667,-74.0210016666667,3.2,278.2,NaN,31-Oct-2026 16:02:05,7,-32.2
+367434160,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.7608966666667,-74.005145,9.1,286.7,NaN,31-Oct-2026 16:02:04,5,-32
+367585720,,,NaN,Class B,"",NaN,NaN,NaN,"",,,40.8302633333333,-73.9621533333333,11.2,23.7,NaN,31-Oct-2026 16:02:02,2,-24.4
+3669982,,,NaN,Base station,"",NaN,NaN,NaN,"",,,40.7889616666667,-73.9297866666667,NaN,NaN,NaN,31-Oct-2026 16:02:01,12,-6.9
+247187700,,,NaN,Class A,"",NaN,NaN,NaN,"",,Moored,40.7656833333333,-73.9993433333333,0,29.3,119,31-Oct-2026 16:01:57,1,-25.8
+367759510,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.7629733333333,-74.0015483333333,0,183,NaN,31-Oct-2026 16:01:56,2,-33.8
+366902350,,,NaN,Class A,"",NaN,NaN,NaN,"",,Moored,40.7341083333333,-74.02392,11.2,157.4,NaN,31-Oct-2026 16:01:54,2,-29.3
+338295000,CAPE CANAVERAL,WDK7640,9877602,Class A,"Local vessel",147,24,5.2,"US NYC",10-31 21:00 UTC,Pushing ahead / towing alongside,40.8885233333333,-73.9260716666667,8.4,206.2,205,31-Oct-2026 16:01:46,3,-29.8
+368063930,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.79818,-73.877465,25.8,101.5,100,31-Oct-2026 16:01:44,4,-35.1
+477156200,OOCL TULIP,VRWY9,9949754,Class A,"Cargo, hazard cat. D",367,51,14.8,"PAPCL>USNYC",10-31 13:15 UTC,Under way using engine,40.6426266666667,-74.1466433333333,3.9,294.9,298,31-Oct-2026 16:01:34,2,-28.6
+367798430,,,NaN,Class A,"",NaN,NaN,NaN,"",,Under way using engine,40.70204,-74.0252816666667,20.3,21.5,20,31-Oct-2026 16:01:28,1,-36.3

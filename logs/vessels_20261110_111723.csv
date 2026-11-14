@@ -1,0 +1,7 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+368092580,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.694355,-74.0148116666667,6.4,35.1,NaN,10-Nov-2026 16:17:45,3,-33.4
+367367430,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6793433333333,-74.0221466666667,19.4,191.5,NaN,10-Nov-2026 16:17:45,2,-37.7
+368217570,DOROTHY DAY,WDM5614,NaN,Class A,Passenger,96,22,4.2,WHITEHALL,,Under way using engine,40.6948666666667,-74.0213,15.5,52.2,239,10-Nov-2026 16:17:45,5,-38.4
+368217460,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6934866666667,-74.0294633333333,6.3,79.7,78,10-Nov-2026 16:17:41,2,-28.9
+367618970,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7022866666667,-74.0169,0.3,320.2,NaN,10-Nov-2026 16:17:40,1,-37.5
+367790830,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.6965766666667,-74.0048316666667,6.7,19.9,20,10-Nov-2026 16:17:40,1,-38.8

@@ -1,0 +1,80 @@
+Operator,Name,MMSI,Status,Heard,Messages,FirstHeard,LastHeard,MedianSnrDb,LastLatitude,LastLongitude,BroadcastName,NameCheck
+Seastreak,Nantucket Express,368396226,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Seastreak New York,367347130,seen,1,11,06-Nov-2026 10:51:04,06-Nov-2026 10:52:55,57.1,40.702875,-74.006285,,no name heard
+Seastreak,Seastreak New Jersey,368396216,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Seastreak Highlands,367347670,seen,1,58,06-Nov-2026 10:50:59,06-Nov-2026 10:52:57,41.45,40.699985,-74.0116616666667,,no name heard
+Seastreak,Whaling City Express,367673370,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Martha's Vineyard Express,367036190,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Ocean State,367675020,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Commodore,368013770,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Courageous,368224850,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+Seastreak,Home Run,368464820,candidate,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Lunchbox,367776270,seen,1,4,06-Nov-2026 10:51:23,06-Nov-2026 10:52:55,11.95,40.7037783333333,-73.9763033333333,,no name heard
+NYC Ferry,Urban Journey,367778670,seen,1,34,06-Nov-2026 10:50:59,06-Nov-2026 10:52:56,57.7,40.7026333333333,-74.0038533333333,URBAN JOURNEY,match
+NYC Ferry,Friendship Express,367782690,seen,1,9,06-Nov-2026 10:51:02,06-Nov-2026 10:52:53,17.5,40.70389,-73.9762833333333,,no name heard
+NYC Ferry,Connector,367782880,candidate,1,5,06-Nov-2026 10:51:27,06-Nov-2026 10:52:56,16.6,40.7038383333333,-73.976585,CONNECTOR,match
+NYC Ferry,Opportunity,367791540,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Flyer,367791550,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,McShiny,367798420,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Starlight,367798430,seen,1,5,06-Nov-2026 10:51:03,06-Nov-2026 10:52:57,14.3,40.7041483333333,-73.9767116666667,,no name heard
+NYC Ferry,Spring Mallard,367797260,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Atlantic Compass,368004120,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Waves of Wonder,367779540,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Sunset Crossing,367779550,seen,1,17,06-Nov-2026 10:50:57,06-Nov-2026 10:52:49,17.5,40.7088816666667,-73.9702783333333,,no name heard
+NYC Ferry,Happy Hauler,367784630,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Great Eagle,367784640,seen,1,2,06-Nov-2026 10:51:26,06-Nov-2026 10:52:02,13.4,40.677375,-74.0419883333333,,no name heard
+NYC Ferry,Owls Head,367790830,seen,1,1,06-Nov-2026 10:51:35,06-Nov-2026 10:51:35,14.4,40.7218133333333,-73.96537,,no name heard
+NYC Ferry,Munsee,367791140,seen,1,35,06-Nov-2026 10:51:02,06-Nov-2026 10:52:56,19.1,40.67023,-74.0213166666667,,no name heard
+NYC Ferry,Ferry Godmother,368025020,seen,1,13,06-Nov-2026 10:51:00,06-Nov-2026 10:52:49,57.4,40.7029966666667,-74.0065616666667,FERRY GODMOTHER,match
+NYC Ferry,Ocean Queen Rockstar,368043070,seen,1,19,06-Nov-2026 10:50:59,06-Nov-2026 10:52:55,18.1,40.7041666666667,-73.9739966666667,OCEANQUEENROCKSTAR,match
+NYC Ferry,Seas the Day,368051230,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Golden Narrows,368061020,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Rainbow Cruise,368063930,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Unity,368081150,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Jewel of the Harbor,368091960,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Traversity,368081160,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Dream Boat,368098930,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Koalified Cruiser,368097380,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Signs to Liberty,368116140,seen,1,28,06-Nov-2026 10:51:11,06-Nov-2026 10:52:57,22.2,40.7063183333333,-73.97647,SIGNS TO LIBERTY,match
+NYC Ferry,Forget Me Knot,368101960,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,River Sprinter,368123070,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Bay Hopper,368130050,seen,1,12,06-Nov-2026 10:51:07,06-Nov-2026 10:52:56,17.8,40.7046,-73.97646,,no name heard
+NYC Ferry,Cyclone Shark,368139870,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Tooth Ferry,368152730,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,Time Traveler,368163240,seen,1,5,06-Nov-2026 10:51:03,06-Nov-2026 10:52:43,17.5,40.704395,-73.9765866666667,,no name heard
+NYC Ferry,Melting Pot,368130870,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,City Fishy,368141540,seen,1,58,06-Nov-2026 10:50:59,06-Nov-2026 10:52:54,57.6,40.7036416666667,-74.0061033333333,,no name heard
+NYC Ferry,Purpose,0,none,0,0,NaT,NaT,NaN,NaN,NaN,,no MMSI
+NYC Ferry,Curiosity,368135270,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NYC Ferry,White Sands,368141510,confident,1,31,06-Nov-2026 10:51:03,06-Nov-2026 10:52:57,30.7,40.69247,-74.0021916666667,WHITE SANDS,match
+NY Water Taxi/Circle Line,Sam Holmes,367659970,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Water Taxi/Circle Line,Ed Rogowsky,367134010,seen,1,18,06-Nov-2026 10:50:59,06-Nov-2026 10:52:53,24.9,40.7148866666667,-73.9718866666667,,no name heard
+NY Water Taxi/Circle Line,Marian Heiskell,367187770,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Water Taxi/Circle Line,Gene Flatow,367367430,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Abraham Lincoln,366990620,candidate,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Admiral Richard E. Bennis,366902320,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Arthur E. Imperatore,368261450,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Bayonne,366902330,candidate,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Betsy Ross,367752090,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Brooklyn,366851670,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Captain Mark Summers,366990570,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Christopher Columbus,366863240,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Congressman Robert A. Roe,366902360,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Empire State,367415390,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Father Mychal Judge,366834160,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Fiorello LaGuardia,367434210,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Frank Sinatra,367434160,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Franklin D Roosevelt,368144670,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Fred V. Morrone,366853410,candidate,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Garden State,366629680,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Governor Thomas H. Kean,366902350,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Henry Hudson,366651000,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Hoboken,366868360,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,John Stevens,366990560,confident,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Molly Pitcher,367691840,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Peter R Weiss,0,none,0,0,NaT,NaT,NaN,NaN,NaN,,no MMSI
+NY Waterway,Port Imperial Manhattan,366990540,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Robert Fulton,0,none,0,0,NaT,NaT,NaN,NaN,NaN,,no MMSI
+NY Waterway,Susan B. Anthony,368078230,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,U.S. Senator Frank R. Lautenberg,366851680,seen,0,0,NaT,NaT,NaN,NaN,NaN,,
+NY Waterway,Yogi Berra,367434220,seen,0,0,NaT,NaT,NaN,NaN,NaN,,

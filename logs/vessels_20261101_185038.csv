@@ -1,0 +1,8 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+367784640,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.728235,-74.0181183333333,22.5,173.8,172,01-Nov-2026 23:52:40,28,-35.2
+367622140,THE MANHATTAN,WDH4861,NaN,Class A,Not available,29,8,NaN,,,Under way using engine,40.7306166666667,-74.0125916666667,0.4,38.2,NaN,01-Nov-2026 23:52:37,3,-37
+366851670,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7536016666667,-74.016775,23.6,21,NaN,01-Nov-2026 23:52:34,9,-37.9
+368029640,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7304633333333,-74.0142333333333,0,289.8,NaN,01-Nov-2026 23:52:23,2,-34.5
+366851680,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7350533333333,-74.0264383333333,0.1,300.2,NaN,01-Nov-2026 23:52:02,1,-37.9
+367797260,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.70312,-73.97663,0.1,139.9,291,01-Nov-2026 23:51:56,1,-39.9
+367531740,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7405583333333,-74.0117416666667,0,NaN,NaN,01-Nov-2026 23:51:10,1,-38.7

@@ -1,0 +1,19 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+366902320,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.755555,-74.0151533333333,24.9,46.5,NaN,31-Oct-2026 16:06:25,10,-26.8
+368345360,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7599433333333,-74.010145,10.5,231.5,227,31-Oct-2026 16:06:22,8,-20.1
+3669982,,,NaN,Base station,,NaN,NaN,NaN,,,,40.7889316666667,-73.9297533333333,NaN,NaN,NaN,31-Oct-2026 16:06:21,11,-7.2
+367415390,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.76534,-74.00699,12.9,183,NaN,31-Oct-2026 16:06:16,3,-24.7
+367759510,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7629766666667,-74.0015266666667,0,183,NaN,31-Oct-2026 16:06:15,1,-35.1
+367367270,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.8136566666667,-73.9710083333333,12.8,207.6,NaN,31-Oct-2026 16:06:14,4,-22.2
+367351520,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7577083333333,-74.0167333333333,3.7,199,199,31-Oct-2026 16:06:13,2,-30.9
+366999412,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7819816666667,-73.9985233333333,7,205.4,205,31-Oct-2026 16:06:07,3,-17.4
+368163680,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.7973733333333,-73.9068966666667,0.8,202,218,31-Oct-2026 16:05:47,1,-30.6
+367016470,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7479466666667,-74.0102583333333,0,61.3,NaN,31-Oct-2026 16:05:46,1,-36.8
+338531000,,,NaN,Class A,,NaN,NaN,NaN,,,At anchor,40.7925983333333,-73.9893066666667,0,281.7,26,31-Oct-2026 16:05:45,1,-27.8
+338295000,,,NaN,Class A,,NaN,NaN,NaN,,,Pushing ahead / towing alongside,40.880265,-73.9314433333333,8.1,205.3,205,31-Oct-2026 16:05:45,1,-30.8
+367303910,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7501483333333,-74.0126766666667,9.8,334.4,NaN,31-Oct-2026 16:05:39,1,-28.9
+367358240,,,NaN,Class A,,NaN,NaN,NaN,,,Not defined,40.79997,-73.8692333333333,0,175.1,NaN,31-Oct-2026 16:05:38,1,-34.3
+367784640,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7012866666667,-74.031655,19.1,198.6,198,31-Oct-2026 16:05:36,1,-35.7
+367434160,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7561133333333,-74.014385,13.1,195.7,NaN,31-Oct-2026 16:05:34,1,-28.7
+367353660,,,NaN,Class A,,NaN,NaN,NaN,,,Moored,40.7824633333333,-73.891965,0,226,314,31-Oct-2026 16:05:31,1,-28
+247187700,AIDADIVA,ICDH,9334856,Class A,Passenger,252,38,7.3,USNYC,10-31 06:30 UTC,,NaN,NaN,NaN,NaN,NaN,31-Oct-2026 16:05:28,1,-25.9

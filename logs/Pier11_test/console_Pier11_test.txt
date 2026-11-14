@@ -1,0 +1,4 @@
+fprintf('Pier11_test start %s\n', string(datetime('now')));
+v = aisReceive(Duration=1200, OutputFolder=outDir, Watchlist='ferry_watchlist.csv', Verbose=true);
+fprintf('Pier11_test end %s, %d stations\n', string(datetime('now')), height(v));
+diary off

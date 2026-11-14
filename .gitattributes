@@ -1,0 +1,9 @@
+* text=auto
+*.m    text diff=matlab
+*.csv  text
+*.md   text
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.bb   binary
+*.mat  binary

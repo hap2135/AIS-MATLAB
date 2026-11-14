@@ -1,0 +1,9 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+3669982,,,NaN,Base station,,NaN,NaN,NaN,,,,40.788935,-73.9297533333333,NaN,NaN,NaN,31-Oct-2026 16:05:21,9,-6.2
+366999412,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7837216666667,-73.9974616666667,7.2,204,203,31-Oct-2026 16:05:07,4,-24
+367367270,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.8178733333333,-73.96811,12.8,201.9,NaN,31-Oct-2026 16:04:54,3,-21.9
+366902320,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.75283,-74.020965,4.3,100.1,NaN,31-Oct-2026 16:04:53,1,-31.2
+368345360,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.760275,-74.0054283333333,3.5,359.5,355,31-Oct-2026 16:04:48,4,-27.5
+367434160,FRANK SINATRA,WDF2985,NaN,Class A,Passenger,26,8,2.4,HOBOKEN/WORLD FI,,,NaN,NaN,NaN,NaN,NaN,31-Oct-2026 16:04:45,1,-28.4
+367358240,,,NaN,Class A,,NaN,NaN,NaN,,,Not defined,40.7999733333333,-73.86924,0,179.7,NaN,31-Oct-2026 16:04:38,1,-32.6
+367415390,,,NaN,Class A,,NaN,NaN,NaN,,,Under way using engine,40.7706766666667,-74.006725,11,185,NaN,31-Oct-2026 16:04:37,1,-27

@@ -1,0 +1,17 @@
+mmsi,name,callsign,imo,category,shipType,length,beam,draught,destination,eta,navStatus,latitude,longitude,speed,course,heading,lastSeen,messages,signalLevelDb
+368163680,,,NaN,Class A,,NaN,NaN,NaN,"",,Pushing ahead / towing alongside,40.799225,-73.9058216666667,0.3,174,210,31-Oct-2026 15:55:06,8,-28.1
+366999412,HAYWARD,AEEA,NaN,Class A,Cargo,37,12,2.6,"US^0XUF>0YZG",,Under way using engine,40.8015116666667,-73.9838516666667,7.5,211.6,210,31-Oct-2026 15:55:06,17,-23.8
+367415390,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.770175,-74.0024016666667,15.8,5.1,NaN,31-Oct-2026 15:55:05,6,-26.1
+3669982,,,NaN,Base station,,NaN,NaN,NaN,"",,,40.7889483333333,-73.9297866666667,NaN,NaN,NaN,31-Oct-2026 15:55:01,42,-7.5
+367434160,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.7612516666667,-74.0061133333333,7.2,111,NaN,31-Oct-2026 15:54:58,31,-33.1
+367351520,,,NaN,Class A,,NaN,NaN,NaN,"",,Pushing ahead / towing alongside,40.7678666666667,-74.0091783333333,3.8,211.5,212,31-Oct-2026 15:54:55,6,-29.4
+366902320,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.759395,-74.0109183333333,24.5,250.7,NaN,31-Oct-2026 15:54:54,19,-25.8
+367585720,,,NaN,Class B,,NaN,NaN,NaN,"",,,40.8089616666667,-73.974025,11.1,25.1,NaN,31-Oct-2026 15:54:34,4,-25.1
+367367270,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.853075,-73.9479883333333,12.4,209.7,NaN,31-Oct-2026 15:54:13,5,-25.7
+367482250,JERSEY,WDF7218,NaN,Class A,Passenger,NaN,NaN,2,"NY,NY",,Under way using engine,40.7700316666667,-74.0096833333333,10.1,37,NaN,31-Oct-2026 15:53:54,7,-25.1
+367000140,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.646,-74.0685,9.7,235,233,31-Oct-2026 15:53:53,1,-30.7
+338531000,,,NaN,Class A,,NaN,NaN,NaN,"",,At anchor,40.7925333333333,-73.989225,0,281.7,21,31-Oct-2026 15:53:44,1,-21.8
+367358240,,,NaN,Class A,,NaN,NaN,NaN,"",,Not defined,40.80001,-73.86924,0,205.6,NaN,31-Oct-2026 15:53:38,1,-31.2
+477156200,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.6432883333333,-74.132,5.3,268.1,268,31-Oct-2026 15:53:11,5,-29.7
+367784640,,,NaN,Class A,,NaN,NaN,NaN,"",,Under way using engine,40.744095,-74.018635,19.6,181.1,179,31-Oct-2026 15:51:36,6,-30.1
+368144670,,,NaN,Class A,,NaN,NaN,NaN,"",,Not defined,40.71616,-74.0208933333333,4.9,187.7,NaN,31-Oct-2026 15:51:36,1,-31.7

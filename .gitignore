@@ -1,0 +1,23 @@
+# Raw radio captures
+*.bb
+
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+slprj/
+codegen/
+*.mat
+
+# Source spreadsheet (ferry_watchlist.csv is the tracked version)
+*.xlsx
+~$*
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+
+# Unrelated files dropped in the folder
+1793194864326.jpg
